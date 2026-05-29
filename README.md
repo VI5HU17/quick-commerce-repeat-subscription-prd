@@ -60,7 +60,6 @@ We utilize a structured product metrics framework to evaluate feature success ac
 ---
 
 ## 🎨 5. Wireframes & User Interface Concepts
-*(Once you upload your mockups, they will be displayed below to visually illustrate the checkout integration and scheduling modal).*
 
 ![Product Interface Mockups](assets/figma_wireframes.png)
 
